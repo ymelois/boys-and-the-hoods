@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "e77b92dd4ec3a129567f09924e7f5dc6fabb7017ac9c4178b54d9c18b0092b1f"
+
+[[files]]
 file = "config/experimentalist.json"
-hash = "f0f29f863037ca080c144f70104551d7adb7075a249e1be7df293cfadd046948"
+hash = "d7b8fb01eecb8663a6dbdf6874658f24093406c6353256bf33404787c37c168f"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
@@ -14,7 +18,7 @@ hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "4e3c476a33e4a46ce84b976c1186411c80c0a55e2565af57ae2a045160aa4769"
+hash = "9c86aba5d3fc73287f2ccd9ac44ce82a5911c43f0e4d8dae96b133509146b558"
 
 [[files]]
 file = "defaultconfigs/ftbranks/ranks.snbt"
@@ -689,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "0bbd316c62534f32c13533d9c2698c86b91176133f0a00abf50b8a1237b1cba9"
+hash = "13d6af369198637f0a77cdddb9643ab423d7152bfc9efe1183cee68bf0fe84bd"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

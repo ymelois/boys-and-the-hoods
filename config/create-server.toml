@@ -1,0 +1,9 @@
+[kinetics]
+	#Maximum length in blocks of chain conveyor connections.
+	# Default: 32
+	# Range: > 5
+	maxChainConveyorLength = 64
+
+[fluids]
+	#Whether hose pulleys should continue filling up above-threshold sources.
+	fillInfinite = false

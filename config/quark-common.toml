@@ -1,23 +1,23 @@
 [general]
-"Enable 'q' Button" = false
+	"Enable 'q' Button" = false
 
 [categories]
-automation = false
-building = false
-management = true
-tools = false
-tweaks = false
-world = false
-mobs = false
-client = false
-experimental = false
-oddities = false
+	automation = false
+	building = false
+	management = true
+	tools = false
+	tweaks = false
+	world = false
+	mobs = false
+	client = false
+	experimental = false
+	oddities = false
 
 [management]
-"Automatic Tool Restock" = false
-"Easy Transferring" = false
-"Expanded Item Interactions" = false
-"Hotbar Changer" = false
-"Inventory Sorting" = true
-"Item Sharing" = false
-"Quick Armor Swapping" = false
+	"Automatic Tool Restock" = false
+	"Easy Transferring" = false
+	"Expanded Item Interactions" = false
+	"Hotbar Changer" = false
+	"Inventory Sorting" = true
+	"Item Sharing" = false
+	"Quick Armor Swapping" = false
