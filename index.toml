@@ -9,20 +9,12 @@ file = "config/experimentalist.json"
 hash = "d7b8fb01eecb8663a6dbdf6874658f24093406c6353256bf33404787c37c168f"
 
 [[files]]
-file = "config/ftblibrary-client.snbt"
-hash = "354510208d97ce0322967bd183df0eb2a1acb45ef2055e4d94ed2f3faec9aada"
-
-[[files]]
 file = "config/jei/jei-client.ini"
 hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
 file = "config/quark-common.toml"
 hash = "9c86aba5d3fc73287f2ccd9ac44ce82a5911c43f0e4d8dae96b133509146b558"
-
-[[files]]
-file = "defaultconfigs/ftbranks/ranks.snbt"
-hash = "b2a665d717f847be999bdf72075bf7ce94e849bad64afa2a07499c761e2e850e"
 
 [[files]]
 file = "icon.png"
@@ -423,26 +415,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
-metafile = true
-
-[[files]]
 file = "mods/hrtffix.pw.toml"
 hash = "2b740943099ef1c80504c5cdba39d5f9554c811e62e5e9e43b6754cec7291869"
 metafile = true
@@ -534,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]

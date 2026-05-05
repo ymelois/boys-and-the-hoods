@@ -1,9 +1,0 @@
-{
-    default: {
-        name: "Default"
-        power: 1
-        condition: "always_active"
-        command.ftbteams: false
-        command.ftbranks: false
-    }
-}
