@@ -249,11 +249,6 @@ file = "kubejs/startup_scripts/rebalance_gold_gear.js"
 hash = "fc93711eb466bfd1e17cd9c41d5a9a5f010cc6a40e70058369f220307cf06551"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
-metafile = true
-
-[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "71ba1d6fa307a069f129f98b891024abd267e252a52e742c5f89edfbe3d4b7eb"
 metafile = true
@@ -484,6 +479,11 @@ hash = "54df09b4e8f14482e9122f34a19d16d2bee8db979c5e8109ea06a4491b2b80ea"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
@@ -559,11 +559,6 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
@@ -606,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "916d78964442a58fedfa0880accb016cd01757ebfe68e7f497d0d95babd7ba48"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
