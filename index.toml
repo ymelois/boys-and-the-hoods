@@ -21,6 +21,10 @@ file = "config/quark-common.toml"
 hash = "9c86aba5d3fc73287f2ccd9ac44ce82a5911c43f0e4d8dae96b133509146b558"
 
 [[files]]
+file = "icon.png"
+hash = "b285a09da0ab804e36ccb4ef71c72b4ab23bc231543f0aa736e836d259547230"
+
+[[files]]
 file = "kubejs/assets/minecraft/lang/en_us.json"
 hash = "abc61d5b0bb2444d00cc83f54c3577aa65d66c3791b4e4973f74bb5439154c92"
 
@@ -547,6 +551,16 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
