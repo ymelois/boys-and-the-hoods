@@ -1,6 +1,6 @@
 name = "Boys and the Hoods"
 author = "Sehnryr"
-version = "0.2.1"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "f5d8209b7b8ec80c7273dec34988d6d7dadc1090e283da257b81a167be0e154c"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.227"
+neoforge = "21.1.228"
