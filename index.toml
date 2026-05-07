@@ -169,6 +169,10 @@ file = "kubejs/server_scripts/loot_stronghold_trims.js"
 hash = "9456b9047f38c0b70d605c7efecaca6ef5ab92036c58257400bbece65b8fe90f"
 
 [[files]]
+file = "kubejs/server_scripts/pause_day_count.js"
+hash = "4a64711b787929326133cad92cb68de8008d49eeca3080f0153c35ac4d5c6887"
+
+[[files]]
 file = "kubejs/server_scripts/recipe_amethyst_block.js"
 hash = "274dfa2c8b6b7ddefec2d1f150286dc637463ec6670989a2ee582036e5d0fbde"
 
