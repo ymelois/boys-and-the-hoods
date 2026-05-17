@@ -14,7 +14,7 @@ hash = "e964c808db02e79821f9a75f452d9f7e95a8b8fd69eec6577e34e82e69012918"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "9c86aba5d3fc73287f2ccd9ac44ce82a5911c43f0e4d8dae96b133509146b558"
+hash = "b45e48e7a2b86d9b603c83eb115c73683a0acdbc5472bd68c3a62a63aeb7b93f"
 
 [[files]]
 file = "icon.png"
@@ -233,12 +233,16 @@ file = "kubejs/server_scripts/recipe_veridium.js"
 hash = "7675c27eb9ab9ee60054e5e6b502417b662680324f8f1325f98706916965cf6b"
 
 [[files]]
+file = "kubejs/server_scripts/remove_enderman_griefing.js"
+hash = "0c254b3f30ffef8d1ebfd3cd844f90c3760e29fab60a220d3f9bc2afc9b4cf99"
+
+[[files]]
 file = "kubejs/server_scripts/remove_lunchbox.js"
 hash = "ce0014f1b2426e0bc18f8226e9208e3e0465405486108ff8c30697d73c0e93f2"
 
 [[files]]
 file = "kubejs/server_scripts/remove_quark_recipes.js"
-hash = "2dafe0c521d946ab4c7ad74de870259e83eedb6334a24c59455529f9936bfafe"
+hash = "9240dd460297caa333eb8f294c093435611460e735b962e386ecc5180deced07"
 
 [[files]]
 file = "kubejs/server_scripts/unify_copper_nugget.js"

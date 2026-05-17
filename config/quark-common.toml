@@ -5,7 +5,7 @@
 	automation = false
 	building = false
 	management = true
-	tools = false
+	tools = true
 	tweaks = false
 	world = false
 	mobs = false
@@ -21,3 +21,20 @@
 	"Inventory Sorting" = true
 	"Item Sharing" = false
 	"Quick Armor Swapping" = false
+
+[tools]
+	Abacus = false
+	"Ambient Discs" = false
+	"Ancient Tomes" = false
+	"Beacon Redirection" = false
+	"Bottled Cloud" = false
+	"Color Runes" = false
+	"Endermosh Music Disc" = false
+	"Parrot Eggs" = false
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
+	"Skull Pikes" = false
+	"Slime In A Bucket" = false
+	"Torch Arrow" = false
+	Trowel = true
